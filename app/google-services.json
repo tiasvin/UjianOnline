@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071693046526",
+    "project_id": "ujianonline-935de",
+    "storage_bucket": "ujianonline-935de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071693046526:android:af7bff2375c17eef18bbaf",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071693046526-r98q55p3g6jobraotm4cmjtskfginik4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbw-7rcMVm-KqfTaiYXEfkHU9Ftv86vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071693046526-r98q55p3g6jobraotm4cmjtskfginik4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
